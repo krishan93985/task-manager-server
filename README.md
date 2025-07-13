@@ -7,7 +7,6 @@ A RESTful API for managing tasks and boards built with Express.js, TypeScript, P
 - Create, read, update, and delete boards
 - Create, read, update, and delete tasks within boards
 - Filter tasks by status and board
-- Search tasks and boards
 - Pagination support
 - Input validation
 - Error handling
